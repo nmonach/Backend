@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "title": "auto"
+  },
+  {
+    "id": 2,
+    "title": "plancha",
+    "description": "plancha copada",
+    "price": 400,
+    "thumbnail": "www.google.com",
+    "code": "001",
+    "stock": 20
+  }
+]
